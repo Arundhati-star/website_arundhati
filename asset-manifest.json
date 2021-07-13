@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/website_arundhati/static/css/main.572800d2.chunk.css",
+    "main.js": "/website_arundhati/static/js/main.a16af02b.chunk.js",
+    "main.js.map": "/website_arundhati/static/js/main.a16af02b.chunk.js.map",
+    "runtime-main.js": "/website_arundhati/static/js/runtime-main.489c34b6.js",
+    "runtime-main.js.map": "/website_arundhati/static/js/runtime-main.489c34b6.js.map",
+    "static/css/2.081f420c.chunk.css": "/website_arundhati/static/css/2.081f420c.chunk.css",
+    "static/js/2.a72887bb.chunk.js": "/website_arundhati/static/js/2.a72887bb.chunk.js",
+    "static/js/2.a72887bb.chunk.js.map": "/website_arundhati/static/js/2.a72887bb.chunk.js.map",
+    "static/js/3.8a6ba651.chunk.js": "/website_arundhati/static/js/3.8a6ba651.chunk.js",
+    "static/js/3.8a6ba651.chunk.js.map": "/website_arundhati/static/js/3.8a6ba651.chunk.js.map",
+    "index.html": "/website_arundhati/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/website_arundhati/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.572800d2.chunk.css.map": "/website_arundhati/static/css/main.572800d2.chunk.css.map",
+    "static/js/2.a72887bb.chunk.js.LICENSE.txt": "/website_arundhati/static/js/2.a72887bb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/website_arundhati/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.489c34b6.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.a72887bb.chunk.js",
+    "static/css/main.572800d2.chunk.css",
+    "static/js/main.a16af02b.chunk.js"
+  ]
+}
